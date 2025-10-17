@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Pranav Kedia aka praked, based in Germany, and working as a Researcher at Uni Konstanz.
 ## - 🔭 I’m currently working on swarms of autonomous sailboats 
 ## - 🌱 I’m currently learning how to work with Unreal Engine
 ## - 👯 I’m looking to collaborate on cool robotics and hardware projects
