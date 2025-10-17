@@ -1,8 +1,8 @@
 ### Hi there 👋
-#- 🔭 I’m currently working on swarms of autonomous sailboats 
-#- 🌱 I’m currently learning how to work with Unreal Engine
-#- 👯 I’m looking to collaborate on cool robotics and hardware projects
-#- 📫 How to reach me: pranav[dot]kedia[at]uni-konstanz[dot]de
+## - 🔭 I’m currently working on swarms of autonomous sailboats 
+## - 🌱 I’m currently learning how to work with Unreal Engine
+## - 👯 I’m looking to collaborate on cool robotics and hardware projects
+## - 📫 How to reach me: pranav[dot]kedia[at]uni-konstanz[dot]de
 <!--
 **praked/praked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
